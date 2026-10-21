@@ -1,0 +1,6 @@
+{
+  "name": "PDF to Audio",
+  "description": "Convertisseur complet de documents PDF en livres audio haute fidélité avec l'API Gemini TTS, traitement local et exportation WAV/ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
